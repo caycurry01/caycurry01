@@ -21,8 +21,9 @@ I am interested in learning about Cloud Engineering and Software Development.
 ## 🚀 Projects
 
 ### Project 1: Project Starter
-**Description:** For Ally, I built a Python script that utilized GitLab APIs to push a large folder of basic Terraform files to a new repository. 
-**Tech Stack:** Python, GitLab, Terraform, HCL 
+- **Description:** For Ally, I built a Python script that utilized GitLab APIs to push a large folder of basic Terraform files to a new repository. 
+
+- **Tech Stack:** Python, GitLab, Terraform, HCL 
 
 ## ☎️ Contact
 - **Email:** cayla.curry01@gmail.com

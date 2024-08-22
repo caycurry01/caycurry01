@@ -5,7 +5,7 @@ Hi there! I'm Cayla Curry, a passionate Computer Science student dedicated to le
 ## 👤 About Me
 
 - **Education:** BS Computer Science UNCC
-- **Interests:** Reading and Playing video games
+- **Interests:** Reading and Playing Videogames
 - **Languages:** Java, C/C++, HTML/CSS, JavaScript, Python, SQL
 - **Previous Experience:** Intern at Ally Financial, Intern at Moody's Corporation
 

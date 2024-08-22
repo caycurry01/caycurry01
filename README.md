@@ -22,7 +22,13 @@ I am interested in learning about Cloud Engineering and Software Development.
 
 ### Project 1: Project Starter
 - **Description:** For Ally, I built a Python script that utilized GitLab APIs to push a large folder of basic Terraform files for both AWS and Azure to a new repository to make building IaC projects quicker. 
-- **Tech Stack:** Python, GitLab, Terraform, HCL 
+- **Tech Stack:** Python, GitLab, Terraform, HCL
+
+### Project 2: UNCC Marketplace
+- **Description:** In a group of 6, we developed a website that would allow students and faculty to trade and sell items that they no longer used. My portion of the project was creating the live chat feature using Websockets. 
+- **Tech Stack:** Python, HTML/CSS, JavaScript, Flask, Websockets
+- [Project](https://github.com/AnessaLeng/3155FinalProject)
+
 
 ## ☎️ Contact
 - **Email:** cayla.curry01@gmail.com

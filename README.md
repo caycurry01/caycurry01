@@ -1,16 +1,30 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**caycurry01/caycurry01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Cayla Curry, a passionate Computer Science student dedicated to learning as much as I can about Software Engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+
+- **Education:** BS Computer Science UNCC
+- **Interests:** Reading and Playing video games
+- **Languages:** Java, C/C++, HTML/CSS, JavaScript, Python, SQL
+- **Previous Experience:** Intern at Ally Financial, Intern at Moody's Corporation
+
+I am interested in learning about Cloud Engineering and Software Development. 
+
+"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." -Pele
+
+---
+
+## 🔨 Currently Working on...
+- ;( LeetCode
+- Job Applications
+- Building Projects
+
+---
+
+## ☎️ Contact
+- **Email:** cayla.curry01@gmail.com
+- **LinkedIn:** [Cayla Curry]([https://github.com/yourusername/project](https://www.linkedin.com/in/caylacurry/))
+

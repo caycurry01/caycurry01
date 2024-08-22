@@ -18,11 +18,10 @@ I am interested in learning about Cloud Engineering and Software Development.
 - Job Applications
 - Building Projects
 
-## 🚀 Projects
+## ☁ Projects
 
 ### Project 1: Project Starter
-- **Description:** For Ally, I built a Python script that utilized GitLab APIs to push a large folder of basic Terraform files to a new repository. 
-
+- **Description:** For Ally, I built a Python script that utilized GitLab APIs to push a large folder of basic Terraform files for both AWS and Azure to a new repository to make building IaC projects quicker. 
 - **Tech Stack:** Python, GitLab, Terraform, HCL 
 
 ## ☎️ Contact

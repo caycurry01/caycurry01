@@ -26,5 +26,5 @@ I am interested in learning about Cloud Engineering and Software Development.
 
 ## ☎️ Contact
 - **Email:** cayla.curry01@gmail.com
-- **LinkedIn:** [Cayla Curry]([https://github.com/yourusername/project](https://www.linkedin.com/in/caylacurry/))
+- **LinkedIn:** [Cayla Curry](https://www.linkedin.com/in/caylacurry/)
 

@@ -2,8 +2,6 @@
 
 Hi there! I'm Cayla Curry, a passionate Computer Science student dedicated to learning as much as I can about Software Engineering.
 
----
-
 ## 👤 About Me
 
 - **Education:** BS Computer Science UNCC
@@ -15,14 +13,16 @@ I am interested in learning about Cloud Engineering and Software Development.
 
 "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." -Pele
 
----
-
 ## 🔨 Currently Working on...
 - ;( LeetCode
 - Job Applications
 - Building Projects
 
----
+## 🚀 Projects
+
+### Project 1: Project Starter
+**Description:** For Ally, I built a Python script that utilized GitLab APIs to push a large folder of basic Terraform files to a new repository. 
+**Tech Stack:** Python, GitLab, Terraform, HCL 
 
 ## ☎️ Contact
 - **Email:** cayla.curry01@gmail.com

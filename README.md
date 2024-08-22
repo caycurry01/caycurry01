@@ -1,8 +1,8 @@
-# Welcome to My GitHub! 👋
+# Welcome to My GitHub! 💫
 
 Hi there! I'm Cayla Curry, a passionate Computer Science student dedicated to learning as much as I can about Software Engineering.
 
-## 👤 About Me
+## 💁🏻‍♀️ About Me
 
 - **Education:** BS Computer Science UNCC
 - **Interests:** Reading and Playing Videogames

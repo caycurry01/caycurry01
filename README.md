@@ -18,6 +18,12 @@ I am interested in learning about Cloud Engineering and Software Development.
 - Job Applications
 - Building Projects
 
+### Personal Project: Fitness App
+- **Description:** This application is a full stack project that will give users a clean and efficient way to track their workout progress.  
+- **Tech Stack:** Java, HTML/CSS, JavaScript, SQL, SpringBoot
+- [Project](https://github.com/caycurry01/fitness_app.git)
+
+
 ## ☁ Projects
 
 ### Project 1: Project Starter

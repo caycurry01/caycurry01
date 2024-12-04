@@ -23,6 +23,8 @@ I am interested in learning about Cloud Engineering and Software Development.
 - **Tech Stack:** Java, HTML/CSS, JavaScript, SQL, SpringBoot
 - [Project](https://github.com/caycurry01/fitness_app.git)
 
+### Home Server:
+- **Description:** Repurposing an old Dell pc into a home server by adding more memory and installing Ubuntu Server as the OS. Currently using as a home lab for practice in utilizing Docker, CI/CD, storage, and application hosting. 
 
 ## ☁ Projects
 

@@ -35,6 +35,11 @@ I am interested in learning about Cloud Engineering and Software Development.
 - **Tech Stack:** Python, HTML/CSS, JavaScript, Flask, Websockets
 - [Project](https://github.com/AnessaLeng/3155FinalProject)
 
+### Project 3: BudgetBunny
+- **Description:** This group project we developed a website that is a user friendly and comprehensive budgeting application targeted to college students. 
+- **Tech Stack:** Java (Spring Boot), HTML/CSS, JavaScript, PostgreSQL
+- [Project](https://github.com/NicholasZoll/BudgetBunny)
+
 
 ## ☎️ Contact
 - **Email:** cayla.curry01@gmail.com

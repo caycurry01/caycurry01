@@ -14,7 +14,6 @@ I am interested in learning about Cloud Engineering and Software Development.
 "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." -Pele
 
 ## 🔨 Currently Working on...
-- ;( LeetCode
 - Job Applications
 - Building Projects
 
